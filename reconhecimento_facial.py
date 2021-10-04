@@ -1,4 +1,4 @@
-#É essencial que você importe a biblioteca cv2, com esse comando no terminal: pip install opencv-python
+#E essencial que você importe a biblioteca cv2, com esse comando no terminal: pip install opencv-python
 #para FECHAR A WEBCAM BASTA APERTAR A LETRA "Q"
 import cv2
 
